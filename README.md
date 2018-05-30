@@ -44,3 +44,6 @@ _default.png在当前节点被单击的时候，我们显示另一张图片被�
 我们收集阳光，当阳光被点击后，我们使用CCMoveTo类方法，将阳光直达阳光收集框，最后将阳光删除，将显示在界面的阳光数的文字增加相应的数目，更新阳光数的文字，这样实现了阳光的收集。
 - 声音播放
     当logo出来时，先播放start.mp3音乐，然后当点击开始冒险的时候，start.mp3音乐停止，当到游戏正式开始的时候，播放day.mp3.
+
+
+https://github.com/ttanzhiqiang/plantsVS.zombies/blob/master/1.png
