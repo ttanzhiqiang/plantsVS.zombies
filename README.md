@@ -46,4 +46,4 @@ _default.png在当前节点被单击的时候，我们显示另一张图片被�
     当logo出来时，先播放start.mp3音乐，然后当点击开始冒险的时候，start.mp3音乐停止，当到游戏正式开始的时候，播放day.mp3.
 
 
-https://github.com/ttanzhiqiang/plantsVS.zombies/blob/master/1.png
+![Alt text](https://github.com/ttanzhiqiang/plantsVS.zombies/blob/master/1.png)
